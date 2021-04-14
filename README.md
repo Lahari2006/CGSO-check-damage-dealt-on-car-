@@ -1,2 +1,2 @@
-# CGSO-check-damage-dealt-on-car-
-Check damage dealt on car after crash.
+# p5.play-boilerplate
+Boiler plate for p5.play
